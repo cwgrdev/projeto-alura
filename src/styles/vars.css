@@ -1,4 +1,7 @@
 :root {
+    /* Fonts */
+    --font-dm-sans: "DM Sans", sans-serif;
+    
   /* Colors */
   --text-base-dark: #000;
   --text-base-light: #fff;
@@ -25,9 +28,6 @@
   --card13: rgb(186, 93, 7);
   --card14: rgb(0, 30, 80);
   --card15: rgb(60, 30, 80);
-
-  /* Fonts */
-  --font-dm-sans: "DM Sans", sans-serif;
 }
 
 /* MEDIA QUERYS */
