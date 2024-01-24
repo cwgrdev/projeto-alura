@@ -6,9 +6,10 @@
   --text-base-dark: #000;
   --text-base-light: #fff;
   --text-sub: #a7a7a7;
-
   --bg-icon: #131313;
-  --bg-top-bar: #61616142;
+  --bg-arrow-color: rgba(0,0,07);
+  --bg-search-color: #292929;
+  --bg-top-bar: #5f5e5e42;
   --grid-gap: 24px;
   --column-count: 5;
 
